@@ -1,0 +1,535 @@
+{
+    "filename": "BusinessDatabase_samplefile_Apr2024.csv",
+    "total_row_count": 1650,
+    "total_column_count": 132,
+    "columns": [
+        {
+            "column_name": "D-U-N-S NUMBER",
+            "count": 1649
+        },
+        {
+            "column_name": "COMPANY NAME",
+            "count": 1649
+        },
+        {
+            "column_name": "TRADE STYLE",
+            "count": 634
+        },
+        {
+            "column_name": "STREET ADDRESS",
+            "count": 1643
+        },
+        {
+            "column_name": "CITY",
+            "count": 1649
+        },
+        {
+            "column_name": "STATE ABBREVIATION",
+            "count": 3297
+        },
+        {
+            "column_name": "ZIP CODE FOR STREET ADDRESS",
+            "count": 1649
+        },
+        {
+            "column_name": "ZIP + 4 EXTENTION FOR STREET ADD",
+            "count": 1581
+        },
+        {
+            "column_name": "MAILING ADDRESS",
+            "count": 377
+        },
+        {
+            "column_name": "MAILING CITY NAME",
+            "count": 377
+        },
+        {
+            "column_name": "MAILING STATE ABBREVIATION",
+            "count": 377
+        },
+        {
+            "column_name": "MAILING ZIP CODE",
+            "count": 377
+        },
+        {
+            "column_name": "MAILING ZIP + 4 EXTENTION",
+            "count": 375
+        },
+        {
+            "column_name": "CARRIER ROUTE CODE",
+            "count": 1611
+        },
+        {
+            "column_name": "DELIVERY POINT BAR CODE",
+            "count": 1610
+        },
+        {
+            "column_name": "NATIONAL CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "STATE CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "COUNTY CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "CITY CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "SMSA CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "TELEPHONE NUMBER",
+            "count": 1649
+        },
+        {
+            "column_name": "CEO DDM NAME",
+            "count": 1632
+        },
+        {
+            "column_name": "CEO DDM TITLE",
+            "count": 1626
+        },
+        {
+            "column_name": "SALES VOLUME",
+            "count": 1649
+        },
+        {
+            "column_name": "SALES VOLUME RANGE CODE",
+            "count": 1359
+        },
+        {
+            "column_name": "TOTAL EMPLOYEES",
+            "count": 1649
+        },
+        {
+            "column_name": "EMPLOYEE RANGE CODE",
+            "count": 1359
+        },
+        {
+            "column_name": "EMPLOYEES HERE",
+            "count": 1649
+        },
+        {
+            "column_name": "EMPLOYEE HERE RANGE CODE",
+            "count": 1649
+        },
+        {
+            "column_name": "YEAR STARTED",
+            "count": 1358
+        },
+        {
+            "column_name": "STATUS INDICATOR",
+            "count": 1649
+        },
+        {
+            "column_name": "SUBSIDIARY INDICATOR",
+            "count": 1649
+        },
+        {
+            "column_name": "MANUFACTURING INDICATOR",
+            "count": 1649
+        },
+        {
+            "column_name": "ULTIMATE DUNS",
+            "count": 1649
+        },
+        {
+            "column_name": "HEADQUARTERS DUNS",
+            "count": 1649
+        },
+        {
+            "column_name": "PARENT DUNS",
+            "count": 1649
+        },
+        {
+            "column_name": "PARENT OR HEADQUARTERS CITY",
+            "count": 548
+        },
+        {
+            "column_name": "PARENT OR HEADQUARTERS ST ABBRV",
+            "count": 543
+        },
+        {
+            "column_name": "DYNTRCTION CODES (TRANS CODES)",
+            "count": 1649
+        },
+        {
+            "column_name": "LATITUDE",
+            "count": 1649
+        },
+        {
+            "column_name": "LONGITUDE",
+            "count": 1649
+        },
+        {
+            "column_name": "ACCURACY MATCH LEVEL CODE",
+            "count": 1639
+        },
+        {
+            "column_name": "LINE OF BUSINESS",
+            "count": 1649
+        },
+        {
+            "column_name": "PRIM4 X1",
+            "count": 1649
+        },
+        {
+            "column_name": "PRIM4 X2",
+            "count": 1649
+        },
+        {
+            "column_name": "PRIM4 X3",
+            "count": 152
+        },
+        {
+            "column_name": "PRIM4 X4",
+            "count": 23
+        },
+        {
+            "column_name": "PRIM4 X5",
+            "count": 7
+        },
+        {
+            "column_name": "SECONDARY  SIC",
+            "count": 444
+        },
+        {
+            "column_name": "COMPANY NAME IN LEGAL FORMAT",
+            "count": 1649
+        },
+        {
+            "column_name": "CEO NAME & TITLE SHORTENED FORM",
+            "count": 1631
+        },
+        {
+            "column_name": "INDUSTRY CODES",
+            "count": 1648
+        },
+        {
+            "column_name": "COTTAGE INDUSTRY INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "SMALL BUSINESS INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "MINORITY OWNER INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "LEGAL STATUS",
+            "count": 1648
+        },
+        {
+            "column_name": "IMPORT/EXPORT INDICATOR",
+            "count": 214
+        },
+        {
+            "column_name": "PUBLIC/PRIVATE INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "SHORTENED PHYSICAL CITY NAME",
+            "count": 1648
+        },
+        {
+            "column_name": "SHORTENED MAILING CITY NAME",
+            "count": 374
+        },
+        {
+            "column_name": "DUNS DECISION MAKERS MANAGEMENT",
+            "count": 1625
+        },
+        {
+            "column_name": "GENDER CODE",
+            "count": 1513
+        },
+        {
+            "column_name": "2000 CENSUS STATE CODE (FIPS)",
+            "count": 1627
+        },
+        {
+            "column_name": "2000 CENSUS COUNTY CODE (FIPS)",
+            "count": 1627
+        },
+        {
+            "column_name": "2000 CENSUS TRACT CODE",
+            "count": 1627
+        },
+        {
+            "column_name": "2000 CENSUS BLOCK GROUP",
+            "count": 1591
+        },
+        {
+            "column_name": "2000 CENSUS BLOCK",
+            "count": 1582
+        },
+        {
+            "column_name": "2000 CENSUS BLOCK SUFFIX",
+            "count": 1582
+        },
+        {
+            "column_name": "DIVISION INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "STATE NAME",
+            "count": 1648
+        },
+        {
+            "column_name": "COUNTY NAME",
+            "count": 1631
+        },
+        {
+            "column_name": "SMSA NAME",
+            "count": 1153
+        },
+        {
+            "column_name": "ULTIMATE NAME",
+            "count": 548
+        },
+        {
+            "column_name": "PARENT NAME",
+            "count": 548
+        },
+        {
+            "column_name": "LEASE EXPIRATION TEXT",
+            "count": 5
+        },
+        {
+            "column_name": "EXCHANGE CODE",
+            "count": 9
+        },
+        {
+            "column_name": "TICKER SYMBOL",
+            "count": 9
+        },
+        {
+            "column_name": "NET WORTH + OR - SIGN",
+            "count": 1648
+        },
+        {
+            "column_name": "NET WORTH",
+            "count": 1648
+        },
+        {
+            "column_name": "HOT NEW LIST",
+            "count": 0
+        },
+        {
+            "column_name": "HOT OWNERSHIP CHANGE",
+            "count": 0
+        },
+        {
+            "column_name": "HOT CEO CHANGE",
+            "count": 0
+        },
+        {
+            "column_name": "HOT COMPANY NAME CHANGE",
+            "count": 0
+        },
+        {
+            "column_name": "HOT ADDRESS CHANGE",
+            "count": 6
+        },
+        {
+            "column_name": "HOT TELEPHONE CHANGE",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN/URL 1",
+            "count": 1157
+        },
+        {
+            "column_name": "DOMAIN STATUS 1",
+            "count": 1157
+        },
+        {
+            "column_name": "MATCH TYPE 1",
+            "count": 1157
+        },
+        {
+            "column_name": "REDIRECT STATUS 1",
+            "count": 1157
+        },
+        {
+            "column_name": "DOMAIN/URL 2",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN STATUS 2",
+            "count": 0
+        },
+        {
+            "column_name": "MATCH TYPE 2",
+            "count": 0
+        },
+        {
+            "column_name": "REDIRECT STATUS 2",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN/URL 3",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN STATUS 3",
+            "count": 0
+        },
+        {
+            "column_name": "MATCH TYPE 3",
+            "count": 0
+        },
+        {
+            "column_name": "REDIRECT STATUS 3",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN/URL 4",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN STATUS 4",
+            "count": 0
+        },
+        {
+            "column_name": "MATCH TYPE4",
+            "count": 0
+        },
+        {
+            "column_name": "REDIRECT STATUS 4",
+            "count": 0
+        },
+        {
+            "column_name": "DOMAIN/URL 5",
+            "count": 1157
+        },
+        {
+            "column_name": "DOMAIN STATUS 5",
+            "count": 1157
+        },
+        {
+            "column_name": "MATCH TYPE 5",
+            "count": 1157
+        },
+        {
+            "column_name": "REDIRECT STATUS 5",
+            "count": 1157
+        },
+        {
+            "column_name": "NUMBER OF ORIGINAL URLS",
+            "count": 1157
+        },
+        {
+            "column_name": "STREET NUMBER",
+            "count": 1617
+        },
+        {
+            "column_name": "STREET NAME",
+            "count": 1623
+        },
+        {
+            "column_name": "APPENDAGE",
+            "count": 1520
+        },
+        {
+            "column_name": "DIRECTIONAL",
+            "count": 115
+        },
+        {
+            "column_name": "MISCELLANEOUS",
+            "count": 370
+        },
+        {
+            "column_name": "CITY NAME",
+            "count": 1648
+        },
+        {
+            "column_name": "ZIP CODE",
+            "count": 1648
+        },
+        {
+            "column_name": "ZIP + 4",
+            "count": 1580
+        },
+        {
+            "column_name": "FAX",
+            "count": 0
+        },
+        {
+            "column_name": "FEIN",
+            "count": 897
+        },
+        {
+            "column_name": "NAICS CODE (BASED ON PRIMARY SIC",
+            "count": 1648
+        },
+        {
+            "column_name": "NAICS DESCRIPTION",
+            "count": 1648
+        },
+        {
+            "column_name": "NAICS CODE  2 (BASED ON SIC 2)",
+            "count": 444
+        },
+        {
+            "column_name": "NAICS DESCRIPTION 2",
+            "count": 444
+        },
+        {
+            "column_name": "MARKET PRESCREEN SCORES ( H,M,L)",
+            "count": 1630
+        },
+        {
+            "column_name": "PRESENCE OF NETWORK",
+            "count": 1643
+        },
+        {
+            "column_name": "NUMBER OF PC'S",
+            "count": 1630
+        },
+        {
+            "column_name": "NUMBER OF COPIERS",
+            "count": 1643
+        },
+        {
+            "column_name": "UCC INDICATOR",
+            "count": 1648
+        },
+        {
+            "column_name": "OTHER CURRENT ASSETS",
+            "count": 419
+        },
+        {
+            "column_name": "TOTAL CURRENT ASSETS",
+            "count": 419
+        },
+        {
+            "column_name": "FIXED ASSETS",
+            "count": 419
+        },
+        {
+            "column_name": "TOTAL ASSETS",
+            "count": 419
+        },
+        {
+            "column_name": "SQUARE FOOTAGE (ACTUAL)",
+            "count": 1648
+        },
+        {
+            "column_name": "SQUARE FOOTAGE ESTIMATOR (ESTIMA",
+            "count": 1630
+        },
+        {
+            "column_name": "SQUARE FOOTAGE INDICATOR",
+            "count": 1630
+        }
+    ]
+}
