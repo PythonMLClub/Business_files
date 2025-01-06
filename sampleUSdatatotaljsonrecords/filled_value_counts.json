@@ -1,0 +1,423 @@
+{
+    "filename": "Sample Total US.csv",
+    "filename_location": "C:\\Users\\User\\Desktop\\Dhanutaskfolder\\dataanalysisdemocode\\Sample Total US.csv",
+    "total_row_count": 10000,
+    "columns": [
+        {
+            "column_name": "Company",
+            "count": 10000
+        },
+        {
+            "column_name": "Address 1",
+            "count": 9954
+        },
+        {
+            "column_name": "Address 2",
+            "count": 892
+        },
+        {
+            "column_name": "Carrier route",
+            "count": 9775
+        },
+        {
+            "column_name": "Telenum",
+            "count": 10000
+        },
+        {
+            "column_name": "Zip4",
+            "count": 9662
+        },
+        {
+            "column_name": "Zipcode",
+            "count": 10000
+        },
+        {
+            "column_name": "SIC_CODE",
+            "count": 10000
+        },
+        {
+            "column_name": "SIC_CODE1",
+            "count": 10000
+        },
+        {
+            "column_name": "SIC_CODE2",
+            "count": 10000
+        },
+        {
+            "column_name": "SIC_CODE3",
+            "count": 10000
+        },
+        {
+            "column_name": "SEC_SIC",
+            "count": 965
+        },
+        {
+            "column_name": "NoOfEmployees",
+            "count": 9961
+        },
+        {
+            "column_name": "TotalNoOfEmp",
+            "count": 10000
+        },
+        {
+            "column_name": "Status",
+            "count": 10000
+        },
+        {
+            "column_name": "Revenue",
+            "count": 10000
+        },
+        {
+            "column_name": "First_Name",
+            "count": 8211
+        },
+        {
+            "column_name": "Last_name",
+            "count": 8154
+        },
+        {
+            "column_name": "Excityname",
+            "count": 10000
+        },
+        {
+            "column_name": "ExMetroname",
+            "count": 8019
+        },
+        {
+            "column_name": "Excountyname",
+            "count": 9920
+        },
+        {
+            "column_name": "Gender",
+            "count": 7043
+        },
+        {
+            "column_name": "Yrstarted",
+            "count": 10000
+        },
+        {
+            "column_name": "ResiBusi",
+            "count": 10000
+        },
+        {
+            "column_name": "URL",
+            "count": 4792
+        },
+        {
+            "column_name": "StateCode",
+            "count": 10000
+        },
+        {
+            "column_name": "MRCCD",
+            "count": 8154
+        },
+        {
+            "column_name": "Comp_id",
+            "count": 10000
+        },
+        {
+            "column_name": "Mailcity",
+            "count": 892
+        },
+        {
+            "column_name": "Mailstate",
+            "count": 892
+        },
+        {
+            "column_name": "Mailzip",
+            "count": 892
+        },
+        {
+            "column_name": "Mailzip4",
+            "count": 888
+        },
+        {
+            "column_name": "NPA_NXX",
+            "count": 10000
+        },
+        {
+            "column_name": "NAICSCode",
+            "count": 10000
+        },
+        {
+            "column_name": "Tradestyle",
+            "count": 1985
+        },
+        {
+            "column_name": "Email",
+            "count": 1726
+        },
+        {
+            "column_name": "Lat",
+            "count": 10000
+        },
+        {
+            "column_name": "Lan",
+            "count": 10000
+        },
+        {
+            "column_name": "MFRS",
+            "count": 10000
+        },
+        {
+            "column_name": "SmallBusi",
+            "count": 10000
+        },
+        {
+            "column_name": "Branch",
+            "count": 10000
+        },
+        {
+            "column_name": "Public_company",
+            "count": 10000
+        },
+        {
+            "column_name": "MINORITYowned",
+            "count": 10000
+        },
+        {
+            "column_name": "Legal_status",
+            "count": 10000
+        },
+        {
+            "column_name": "SUBSIDIARY",
+            "count": 10000
+        },
+        {
+            "column_name": "EmployeesHere",
+            "count": 10000
+        },
+        {
+            "column_name": "UltimateDuns",
+            "count": 10000
+        },
+        {
+            "column_name": "HeadquartersDUNS",
+            "count": 10000
+        },
+        {
+            "column_name": "ParentDUNS",
+            "count": 10000
+        },
+        {
+            "column_name": "ParentOrHeadQuatersCity",
+            "count": 1616
+        },
+        {
+            "column_name": "ParentOrHeadquatersStateAbbr",
+            "count": 1605
+        },
+        {
+            "column_name": "ImportExportIndicator",
+            "count": 10000
+        },
+        {
+            "column_name": "NetWorthSign",
+            "count": 10000
+        },
+        {
+            "column_name": "NetWorth",
+            "count": 10000
+        },
+        {
+            "column_name": "URL1",
+            "count": 0
+        },
+        {
+            "column_name": "URL2",
+            "count": 0
+        },
+        {
+            "column_name": "URL3",
+            "count": 0
+        },
+        {
+            "column_name": "URL4",
+            "count": 4792
+        },
+        {
+            "column_name": "StreetNo",
+            "count": 9816
+        },
+        {
+            "column_name": "StreetName",
+            "count": 9822
+        },
+        {
+            "column_name": "Appendage",
+            "count": 9172
+        },
+        {
+            "column_name": "Directional",
+            "count": 841
+        },
+        {
+            "column_name": "DunsNumber",
+            "count": 10000
+        },
+        {
+            "column_name": "Tradestyle.1",
+            "count": 1985
+        },
+        {
+            "column_name": "Dlvyptcode",
+            "count": 9768
+        },
+        {
+            "column_name": "CntryCode",
+            "count": 10000
+        },
+        {
+            "column_name": "CntyCode",
+            "count": 10000
+        },
+        {
+            "column_name": "CityCode",
+            "count": 10000
+        },
+        {
+            "column_name": "SmsaCode",
+            "count": 10000
+        },
+        {
+            "column_name": "Lob",
+            "count": 10000
+        },
+        {
+            "column_name": "CompLegal",
+            "count": 10000
+        },
+        {
+            "column_name": "CeoShort",
+            "count": 8211
+        },
+        {
+            "column_name": "Industry",
+            "count": 10000
+        },
+        {
+            "column_name": "Shortphy",
+            "count": 10000
+        },
+        {
+            "column_name": "Shortmail",
+            "count": 888
+        },
+        {
+            "column_name": "GeoStFip",
+            "count": 9773
+        },
+        {
+            "column_name": "GeoCntyF",
+            "count": 9773
+        },
+        {
+            "column_name": "GeoTract",
+            "count": 9773
+        },
+        {
+            "column_name": "Blockgroup",
+            "count": 9599
+        },
+        {
+            "column_name": "Block",
+            "count": 9455
+        },
+        {
+            "column_name": "Blocksuffx",
+            "count": 9455
+        },
+        {
+            "column_name": "Ultname",
+            "count": 1616
+        },
+        {
+            "column_name": "Parname",
+            "count": 1616
+        },
+        {
+            "column_name": "Leasetxt",
+            "count": 11
+        },
+        {
+            "column_name": "ExchCode",
+            "count": 5
+        },
+        {
+            "column_name": "Ticker",
+            "count": 5
+        },
+        {
+            "column_name": "HotNewlis",
+            "count": 6
+        },
+        {
+            "column_name": "HotOwner",
+            "count": 0
+        },
+        {
+            "column_name": "HotCeoCh",
+            "count": 0
+        },
+        {
+            "column_name": "HotComp",
+            "count": 0
+        },
+        {
+            "column_name": "HotAddr",
+            "count": 2
+        },
+        {
+            "column_name": "HotTele",
+            "count": 5
+        },
+        {
+            "column_name": "NAICSDescription",
+            "count": 10000
+        },
+        {
+            "column_name": "PresenceOfNetwork",
+            "count": 9942
+        },
+        {
+            "column_name": "NumberofPcs",
+            "count": 9631
+        },
+        {
+            "column_name": "NumberofCopiers",
+            "count": 9942
+        },
+        {
+            "column_name": "UCCIndicator",
+            "count": 9999
+        },
+        {
+            "column_name": "OtherCurrentAssets",
+            "count": 524
+        },
+        {
+            "column_name": "TotalCurrentAssets",
+            "count": 10000
+        },
+        {
+            "column_name": "FixedAssets",
+            "count": 524
+        },
+        {
+            "column_name": "TotalAssets",
+            "count": 10000
+        },
+        {
+            "column_name": "SquareFootageActual",
+            "count": 10000
+        },
+        {
+            "column_name": "SquareFootageEstimator",
+            "count": 10000
+        },
+        {
+            "column_name": "SquareFootageIndicator",
+            "count": 9593
+        }
+    ]
+}
